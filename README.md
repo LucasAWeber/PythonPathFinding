@@ -1,4 +1,4 @@
-# ShockingRotom August 2021
+# Lucas Weber August 2021
 ## PythonPathFinding
 ###### Path finding algorithm written in Python
 - click left mouse button for starting point
